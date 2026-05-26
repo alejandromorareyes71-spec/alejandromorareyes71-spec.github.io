@@ -10,8 +10,7 @@ El portfolio está diseñado para verse correctamente en ordenador, tablet y mó
 ---
 
 ## URL de la página publicada
-
-[https://tu-usuario.github.io/portfolio-alejandro-mora/](https://alejandromorareyes71-spec.github.io/)
+https://alejandromorareyes71-spec.github.io/
 
 ---
 
