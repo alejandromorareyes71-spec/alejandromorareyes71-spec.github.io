@@ -1,13 +1,70 @@
-# Pagina web de presentacion
+# Portfolio Personal - Alejandro Mora
 
-Proyecto convertido a sitio estatico simple.
+## Descripción
 
-## Archivos principales
+Este proyecto es un portfolio personal desarrollado para la práctica de 1º DAM.
+La página web ha sido creada con HTML y CSS sin usar frameworks, con el objetivo de mostrar información personal, habilidades, proyectos y formas de contacto de manera profesional y sencilla.
 
-- `index.html`
-- `styles.css`
-- `script.js`
+El portfolio está diseñado para verse correctamente en ordenador, tablet y móvil.
 
-## Publicacion en GitHub Pages
+---
 
-Si tu repositorio es el especial `TUUSUARIO.github.io`, solo necesitas subir estos archivos a la rama `main` y activar GitHub Pages desde esa misma rama.
+## URL de la página publicada
+
+https://tu-usuario.github.io/portfolio-alejandro-mora/
+
+---
+
+## Tecnologías utilizadas
+
+- HTML5
+- CSS3
+- GitHub Pages
+- Visual Studio Code
+
+## Elemento diferenciador
+
+El portfolio incluye efectos hover y transiciones suaves en botones y tarjetas para hacer la página más dinámica y agradable visualmente.
+
+También incluye diseño responsive para adaptarse correctamente a distintos dispositivos.
+
+---
+
+## Uso de Inteligencia Artificial
+
+He utilizado ChatGPT como apoyo para:
+
+- Generar ideas para la estructura de la página.
+- Resolver dudas de HTML y CSS.
+- Mejorar algunos estilos visuales.
+- Corregir errores del código.
+
+Todo el contenido personal, textos y proyectos han sido adaptados y revisados por mí.
+
+---
+
+## Dificultades encontradas
+
+Una de las principales dificultades fue organizar correctamente las secciones y hacer que la página se viera bien en móvil.
+
+También tuve algunos problemas con los márgenes y el posicionamiento usando CSS, pero los solucioné practicando y haciendo pruebas.
+
+---
+
+## Estructura del proyecto
+
+```text
+.
+├── assets/
+│   └── img/
+│       ├── aframe.jpg
+│       ├── cv.ico
+│       ├── img1.jpg
+│       ├── img2.png
+│       ├── power.png
+│       ├── task.png
+│       ├── script.js
+│       └── styles.css
+├── README.md
+├── index.html
+└── proyectos.html
