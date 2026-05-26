@@ -59,19 +59,6 @@ Esto me permitió aprender una forma más profesional de estructurar aplicacione
 
 ---
 
-## Uso de Inteligencia Artificial
-
-He utilizado herramientas de IA como ChatGPT para:
-
-- Resolver dudas sobre React y componentes.
-- Ayudarme con algunos estilos CSS.
-- Mejorar la estructura del código.
-- Corregir errores y problemas de diseño responsive.
-
-Todo el contenido personal y la personalización final han sido realizados y revisados por mí.
-
----
-
 ## Dificultades encontradas
 
 Las mayores dificultades fueron:
