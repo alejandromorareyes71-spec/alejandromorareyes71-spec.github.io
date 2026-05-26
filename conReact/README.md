@@ -11,9 +11,26 @@ La página es responsive y se adapta correctamente a móviles, tablets y ordenad
 
 ---
 
-## URL de la página publicada
+- ⚙️ Instalación y puesta en marcha
+      Requisitos previos
+      Node.js v18 o superior
+      npm v9 o superior
 
-https://tu-usuario.github.io/portfolio-alejandro-mora-react/
+## 🚨Comandos necesarios para instalar el proyecto
+
+```java
+git clone <url-del-repositorio>
+
+cd gestor_tareas
+
+npm i o npm install
+
+npm run dev
+```
+
+La aplicación estará disponible en:
+
+[http://localhost:5173](http://localhost:5173/)
 
 ---
 
