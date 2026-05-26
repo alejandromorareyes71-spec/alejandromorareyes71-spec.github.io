@@ -1,110 +1,106 @@
-# 📝 Task Manager — Gestor de Tareas
+# Portfolio Personal React - Alejandro Mora
 
-Aplicación web de gestión de tareas desarrollada como proyecto final del curso de desarrollo web con React. Permite crear, visualizar, editar y eliminar tareas, con soporte para filtrado, ordenación y persistencia de datos en el navegador.
+## Descripción
 
----
+Este proyecto es una versión mejorada de mi portfolio personal desarrollada con React.
+La aplicación ha sido creada como práctica para 1º DAM con el objetivo de aprender desarrollo frontend moderno utilizando componentes y una estructura más organizada.
 
-## 🎯 Objetivo
+En el portfolio se muestra información sobre mí, mis habilidades, proyectos realizados durante el curso y formas de contacto profesional.
 
-Demostrar los conocimientos adquiridos durante el curso (HTML, CSS, JavaScript y React) mediante la construcción de una aplicación CRUD completa con una interfaz limpia, responsive y funcional.
-
----
-
-## ✨ Funcionalidades
-
-- **Crear tareas** con título, descripción, prioridad, estado y fecha límite
-- **Visualizar** todas las tareas en formato lista o grid
-- **Editar** cualquier tarea desde un formulario pre-rellenado
-- **Eliminar** tareas con confirmación previa
-- **Marcar como completada** con cambio visual automático
-- **Filtrar** por estado (Pendiente / En Progreso / Completada) y por prioridad (Alta / Media / Baja)
-- **Ordenar** por fecha de creación, fecha límite, prioridad o título
-- **Persistencia** automática mediante `localStorage`
+La página es responsive y se adapta correctamente a móviles, tablets y ordenadores.
 
 ---
 
-## 🛠️ Tecnologías utilizadas
+## URL de la página publicada
 
-| Tecnología | Uso |
-|------------|-----|
-| [Vite](https://vitejs.dev/) | Build tool y servidor de desarrollo |
-| [React 18+](https://react.dev/) | Framework principal |
-| CSS | Estilos (módulos CSS / CSS puro) |
-| `useState` | Gestión del estado de la aplicación |
-| `useEffect` | Sincronización con `localStorage` |
-| `localStorage` | Persistencia de datos en el navegador |
-
-### Opcionales (si se utilizan)
-
-- [React Router](https://reactrouter.com/) — navegación entre vistas
-- [Context API](https://react.dev/reference/react/useContext) — estado global
-- [React Icons](https://react-icons.github.io/react-icons/) — iconografía
-- [date-fns](https://date-fns.org/) / [Day.js](https://day.js.org/) — manejo de fechas
-- [UUID](https://www.npmjs.com/package/uuid) — generación de IDs únicos
+https://tu-usuario.github.io/portfolio-alejandro-mora-react/
 
 ---
 
-## 🗂️ Estructura del proyecto
+## Tecnologías utilizadas
 
-```
-src/
-├── components/
-│   ├── Header.jsx        # Cabecera y título de la app
-│   ├── TaskForm.jsx      # Formulario para crear y editar tareas
-│   ├── TaskList.jsx      # Contenedor de todas las tarjetas
-│   ├── TaskCard.jsx      # Tarjeta individual de tarea
-│   └── FilterBar.jsx     # Controles de filtrado y ordenación
-├── App.jsx               # Componente raíz y lógica principal
-├── main.jsx              # Punto de entrada
-└── index.css             # Estilos globales
-```
+- React
+- JavaScript
+- HTML5
+- CSS3
+- Vite
+- GitHub Pages
+- Visual Studio Code
 
 ---
 
-## 🚀 Instalación y puesta en marcha
+## Elemento diferenciador
 
-### Requisitos previos
+El portfolio incluye:
 
-- [Node.js](https://nodejs.org/) v18 o superior
-- npm v9 o superior (incluido con Node.js)
+- Animaciones suaves con CSS.
+- Efectos hover en botones y tarjetas.
+- Diseño responsive adaptable a cualquier dispositivo.
+- Organización del proyecto mediante componentes React.
 
-### Pasos
-
-```bash
-# 1. Clonar el repositorio
-git clone <url-del-repositorio>
-cd task-manager
-
-# 2. Instalar dependencias
-npm install
-
-# 3. Iniciar el servidor de desarrollo
-npm run dev
-```
-
-La aplicación estará disponible en `http://localhost:5173`.
-
-### Scripts disponibles
-
-| Comando | Descripción |
-|---------|-------------|
-| `npm run dev` | Inicia el servidor de desarrollo |
-| `npm run build` | Genera la versión de producción en `/dist` |
-| `npm run preview` | Previsualiza la build de producción |
+Esto me permitió aprender una forma más profesional de estructurar aplicaciones web.
 
 ---
 
-## 📱 Diseño responsive
+## Uso de Inteligencia Artificial
 
-La aplicación está adaptada para funcionar correctamente en:
+He utilizado herramientas de IA como ChatGPT para:
 
-- 🖥️ Desktop (≥ 1024px)
-- 📱 Tablet (≥ 768px)
-- 📱 Móvil (< 768px)
+- Resolver dudas sobre React y componentes.
+- Ayudarme con algunos estilos CSS.
+- Mejorar la estructura del código.
+- Corregir errores y problemas de diseño responsive.
+
+Todo el contenido personal y la personalización final han sido realizados y revisados por mí.
 
 ---
 
-## 👤 Autor
+## Dificultades encontradas
 
-Proyecto desarrollado como entrega final del curso de desarrollo web.  
-Tutor: **Víctor Moreno** — victor.moreno@cojali.com
+Las mayores dificultades fueron:
+
+- Entender cómo funcionan los componentes en React.
+- Organizar correctamente las carpetas del proyecto.
+- Configurar GitHub Pages para publicar la aplicación React.
+- Adaptar el diseño responsive usando CSS.
+
+Poco a poco fui solucionando estos problemas practicando y revisando la documentación.
+
+---
+
+## Estructura del proyecto
+
+```text
+portfolio-react/
+├── assets/
+│   └── img/
+│       ├── aframe.jpg
+│       ├── cv.ico
+│       ├── img1.jpg
+│       ├── img2.png
+│       ├── power.png
+│       ├── task.png
+│       ├── script.js
+│       └── styles.css
+├── conReact/
+│   ├── public/
+│   │   ├── cv/
+│   │   ├── favicon.ico
+│   │   ├── favicon.svg
+│   │   └── icons.svg
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── App.css
+│   │   ├── App.jsx
+│   │   ├── index.css
+│   │   └── main.jsx
+│   ├── .gitignore
+│   ├── README.md
+│   ├── eslint.config.js
+│   ├── index.html
+│   ├── package-lock.json
+│   ├── package.json
+│   └── vite.config.js
+├── README.md
+├── index.html
+└── proyectos.html
