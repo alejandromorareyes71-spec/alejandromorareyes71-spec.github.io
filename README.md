@@ -29,19 +29,6 @@ También incluye diseño responsive para adaptarse correctamente a distintos dis
 
 ---
 
-## Uso de Inteligencia Artificial
-
-He utilizado ChatGPT como apoyo para:
-
-- Generar ideas para la estructura de la página.
-- Resolver dudas de HTML y CSS.
-- Mejorar algunos estilos visuales.
-- Corregir errores del código.
-
-Todo el contenido personal, textos y proyectos han sido adaptados y revisados por mí.
-
----
-
 ## Dificultades encontradas
 
 Una de las principales dificultades fue organizar correctamente las secciones y hacer que la página se viera bien en móvil.
